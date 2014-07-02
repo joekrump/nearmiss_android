@@ -2,9 +2,9 @@
 <resources>
 
     <string name="app_name">Near Miss</string>
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section3">Section 3</string>
+    <string name="title_ticket_create">Submit a Ticket</string>
+    <string name="title_maintenance_map">Maintenance Map</string>
+    <string name="title_installation_progress">Section 3</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
@@ -16,4 +16,6 @@
     <string name="incident_description_short_label">Describe what happened in one or two sentences</string>
     <string name="incident_description_long_label">Enter a more detailed description of the incident here</string>\
     <string name="title_activity_submit_ticket">Enter a new Ticket</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
 </resources>
