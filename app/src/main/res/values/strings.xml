@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Near Miss</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_save">Save</string>
+    <string name="title_activity_main">MainActivity</string>\
+    <string name="incident_description_short_label">Describe what happened in one or two sentences</string>
+    <string name="incident_description_long_label">Enter a more detailed description of the incident here</string>\
+    <string name="title_activity_submit_ticket">Enter a new Ticket</string>
+</resources>
