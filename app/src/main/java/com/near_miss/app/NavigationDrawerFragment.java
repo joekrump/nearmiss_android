@@ -106,7 +106,6 @@ public class NavigationDrawerFragment extends Fragment {
                         getString(R.string.title_maintenance_map),
                         getString(R.string.title_installation_progress),
                 }));
-        mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
         return mDrawerListView;
     }
 
