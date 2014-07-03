@@ -3,7 +3,7 @@
     <string name="app_name">Near Miss</string>
     <string name="title_ticket_create">Submit a Ticket</string>
     <string name="title_maintenance_map">Maintenance Map</string>
-    <string name="title_installation_progress">Section 3</string>
+    <string name="title_installation_progress">Installation Progress</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
